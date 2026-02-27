@@ -1,12 +1,14 @@
+# 项目构建产物（适配 Yolo-Datasets-Preprocessing-Tool）
 build/
 dist/
 installer/
 release/
-Yolo-Datasets-Preprocessing-Tool/  
+Yolo-Datasets-Preprocessing-Tool/  # 若有同名构建目录也忽略
 *.exe
 *.msi
 *.zip
 
+# Python 通用忽略
 __pycache__/
 *.py[cod]
 *$py.class
