@@ -32,6 +32,7 @@
 ├── ARCHITECTURE.md        # 项目架构说明
 ├── PROJECT_STATUS.md      # 当前开发状态
 ├── RELEASE.md             # 发布说明
+├── requirements.txt       # 项目依赖清单                 
 └── README.md              # 项目说明（本文档）
 ```
 
